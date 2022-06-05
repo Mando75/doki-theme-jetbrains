@@ -41,6 +41,7 @@ private val nameMapping =
     "Miscellaneous" to "Misc: ",
     "Yuru Camp" to "YuruCamp: ",
     "NekoPara" to "NekoPara: ",
+	  "vDonburi" to "vDonburi: ",
   )
 
 fun getLafNamePrefix(groupName: String): String =

@@ -33,7 +33,7 @@ object HttpClientFactory {
 
 object AssetManager {
   const val ASSET_SOURCE = "https://doki.assets.unthrottled.io"
-  const val FALLBACK_ASSET_SOURCE = "https://raw.githubusercontent.com/doki-theme/doki-theme-assets/master"
+  const val FALLBACK_ASSET_SOURCE = "https://raw.githubusercontent.com/Mando75/doki-theme-assets/master"
 
   /**
    * Will return a resolvable URL that can be used to reference an asset.

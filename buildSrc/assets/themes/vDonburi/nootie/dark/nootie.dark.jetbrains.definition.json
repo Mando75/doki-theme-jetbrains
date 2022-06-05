@@ -1,0 +1,12 @@
+{
+  "id": "346f5f30-1e98-416c-8fd3-5f3824682369",
+  "editorScheme": {
+    "type": "template",
+    "name": "Doki Dim"
+  },
+  "overrides": {},
+  "ui": {
+    "Doki.Icon.Accent.Contrast.color": "headerColor"
+  },
+  "uiBase": "dark dim"
+}
